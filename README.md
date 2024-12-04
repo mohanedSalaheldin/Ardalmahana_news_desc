@@ -27,10 +27,8 @@ We are always working on improving the app to meet your expectations. If you hav
 
 
 ### 📱 Screenshots
-![Screenshot_1733317900](https://github.com/user-attachments/assets/3b6f0b46-b3ed-451f-a508-94d2d4ca87bd)
-![Screenshot_1733317943](https://github.com/user-attachments/assets/e82c5055-3cc5-45a7-88c1-3c1a1601ae00)
-![Screenshot_1733317935](https://github.com/user-attachments/assets/4bd0fc57-fd9d-4f8b-96bd-2e7116d47fad)
-![Screenshot_1733317897](https://github.com/user-attachments/assets/ed55d2c0-49bb-4812-9304-33ea5091e552)
+![ard](https://github.com/user-attachments/assets/fb28255f-fc93-4a20-8824-2b3a578824aa)
+
 
 
 ### 📱 Demo
